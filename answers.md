@@ -115,7 +115,7 @@ It has largely displaced **Unix troff**, the other favored formatting system, in
 
 <div class="embed-container">
     <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/{{ 9b4F_ppjnKU }}" 
+    src="https://www.youtube.com/embed/9b4F_ppjnKU" 
     frameborder="0" allowfullscreen></iframe>
 </div>
 <style>
