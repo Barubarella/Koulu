@@ -116,3 +116,24 @@ It has largely displaced **Unix troff**, the other favored formatting system, in
 [![GOAT](https://img.youtube.com/vi/9b4F_ppjnKU/0.jpg)](https://www.youtube.com/watch?v=9b4F_ppjnKU)
 
 <img src="https://www.tunturisusi.com/fennekki13i.jpg">
+
+## Exercise 4
+
+public class Person{
+  private string name;
+  private int age;
+
+  public Person(string initialName)
+  {
+    this.age = 0;
+    this.name = initialName;
+  }
+  public void PrintPerson()
+  {
+    Console.WriteLine(this.name + ", age " + this.age + " years");
+  }
+  public void GrowOlder()
+  {
+    this.age = this.age + 1;
+  }
+}
