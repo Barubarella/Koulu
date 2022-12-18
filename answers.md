@@ -113,6 +113,6 @@ It has largely displaced **Unix troff**, the other favored formatting system, in
 
 ## Exercise 3
 
-[![Best music!]
-(https://img.youtube.com/vi/9b4F_ppjnKU/maxresdefault.jpg)]
+![Best music!]
+(https://img.youtube.com/vi/9b4F_ppjnKU/maxresdefault.jpg)
 (https://www.youtube.com/watch?v=9b4F_ppjnKU))/
