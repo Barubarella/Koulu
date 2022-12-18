@@ -116,3 +116,5 @@ It has largely displaced **Unix troff**, the other favored formatting system, in
 ![Best music!]
 (https://img.youtube.com/vi/9b4F_ppjnKU/maxresdefault.jpg)
 (https://www.youtube.com/watch?v=9b4F_ppjnKU))/
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tunturisusi.com%2Faavikkokettu.html&psig=AOvVaw3UiwMIDqGOYLFcYKixt_M0&ust=1671479377543000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDFrIb4g_wCFQAAAAAdAAAAABAE">
