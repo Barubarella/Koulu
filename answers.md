@@ -113,6 +113,8 @@ It has largely displaced **Unix troff**, the other favored formatting system, in
 
 ## Exercise 3
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9b4F_ppjnKU" title="GOAT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/9b4F_ppjnKU/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=9b4F_ppjnKU)
 
 <img src="https://www.tunturisusi.com/fennekki13i.jpg">
